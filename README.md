@@ -1,4 +1,3 @@
-# Android
 package com.example.memo
 
 /*
@@ -237,3 +236,4 @@ fun main(){
     val korean = Korean()
     korean.singASong()
 }
+
