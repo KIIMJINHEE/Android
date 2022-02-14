@@ -2,14 +2,6 @@
 
 ###### https://github.com/orgs/Fastcampus-Android-Lecture-Project-2021/repositories?q=&type=all&language=&sort=name
 
-
-
-
-
-
-
-
- 
 package com.example.memo
 
 /*
